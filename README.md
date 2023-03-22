@@ -1,9 +1,2 @@
-🔭 I’m currently working on Full Stack Applications
-🌱 I’m currently on the road to mastering CSS, Prototyping and MERN Stack Applications
-👯 I’m looking to collaborate on Fiverr and Upwork
-🤔 I’m looking for help with TypeScript
-💬 Ask me about JavaScript and ReactJS
-📫 How to reach me: LinkedIn: _____ || Website: ____
-⚡ Fun fact: I love to read about the latest vulnerabilities released on the official CVE Website.
-
+I'm a data analyst and love to learn to code the fun way. Incoming undergraduate student studying computer science engineering. I've always had a great interest in how computers work in general but when I saw the scale of what can be done on the internet I've always wondered how it's done and boom!. I enjoy travelling and street photography, it takes me off the hook for a while 🚀
 
